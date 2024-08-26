@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48265193.css",
+    "main.js": "/static/js/main.0f9f517b.js",
+    "static/js/453.04ec5b8f.chunk.js": "/static/js/453.04ec5b8f.chunk.js",
+    "static/media/BankPro.png": "/static/media/BankPro.739e5739e878a34078f3.png",
+    "static/media/BankUser.png": "/static/media/BankUser.2d1b9aeae4dbac07e349.png",
+    "static/media/CV.pdf": "/static/media/CV.d48bb27b0cafb89df144.pdf",
+    "static/media/about.jpg": "/static/media/about.402767d40679809bf7db.jpg",
+    "static/media/crypto-verse.png": "/static/media/crypto-verse.e951eca68ca0429a2f71.png",
+    "static/media/profile.jpg": "/static/media/profile.ccf97103cf6aaa7c1338.jpg",
+    "index.html": "/index.html",
+    "main.48265193.css.map": "/static/css/main.48265193.css.map",
+    "main.0f9f517b.js.map": "/static/js/main.0f9f517b.js.map",
+    "453.04ec5b8f.chunk.js.map": "/static/js/453.04ec5b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48265193.css",
+    "static/js/main.0f9f517b.js"
+  ]
+}
